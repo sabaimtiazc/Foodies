@@ -1,0 +1,26 @@
+Use Draw.IO to create an ERD for the following scenario
+
+ARTISTS
+ - First Name (fname)
+ - Last Name (lname)
+ - Email
+ - Date
+
+ALBUMS
+ - Title
+ - Genre
+ - Composers (Artist HINT HINT)
+ - YEAR
+ - Tracks (How would you do this part...?)
+
+TRACKS
+ - Title
+ - Genre
+ - Writer (Artist HINT HINT)
+ - YEAR
+
+Things to take note of. What are the primary keys and why? Are there foreign keys why? Are
+there composite keys why?
+
+As an added bonus
+Write the MySQL commands to build this from scratch.

@@ -1,0 +1,11 @@
+1.) Create a database call it MyDB
+2.) Create a table call it MyTable
+    * id
+    * fname
+    * lname
+    * email
+    * date
+3.) Run a command to insert data into the table using the SQL window
+4.) Insert data using the GUI interface
+5.) Run a command to view fname, lname from the MyTable table
+6.) Run a command to show all where id=0
